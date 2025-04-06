@@ -15,7 +15,7 @@ The primary goal is to offer an engaging and visually appealing alternative for 
 
 Check out the live version deployed here:
 
-➡️ **[frenki.vercel.app](https://frenki.vercel.app/)** ⬅️
+➡️ **[nerdf-ollio.vercel.app](https://nerdf-ollio-andi-dev.vercel.app/)** ⬅️
 
 ## ✨ Key Features
 
