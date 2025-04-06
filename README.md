@@ -45,8 +45,8 @@ To run this project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/frenkiofficial/Portfolio-Site.git
-    cd Portfolio-Site
+    git clone https://github.com/nerdnomerch/f-ollioNerd-s.git
+    cd f-ollioNerd-s
     ```
 
 2.  **Open `index.html`:**
