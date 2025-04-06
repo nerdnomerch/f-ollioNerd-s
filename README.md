@@ -70,7 +70,7 @@ This project is designed to be easily adaptable for your own profile. Here’s h
 
 3.  **Update Copyright Name (`index.html`):**
     *   In the footer section, find `<p class="copyright">`.
-    *   Change the name "Frenki" to your name or desired alias.
+    *   Change the name "Nerd's" to your name or desired alias.
 
 4.  **(Optional) Customize Styles (`style.css`):**
     *   If you wish to change the appearance (colors, fonts, spacing, animations), you can modify the rules within the `style.css` file.
